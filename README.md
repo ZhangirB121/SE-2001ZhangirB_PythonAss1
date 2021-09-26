@@ -29,6 +29,7 @@ cg = CoinGeckoAPI()
 You can find full information about this API in this site https://www.coingecko.com/api/docs/v3
 
 /coins/markets (List all supported coins price, market cap, volume, and market related data)
-
+```
 cg.get_coins_markets()
+```
 
