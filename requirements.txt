@@ -1,1 +1,1 @@
-You need to have Python 3 or later versions, internet and IDE(to modify my code)
+You need to have Python 3 or later versions
